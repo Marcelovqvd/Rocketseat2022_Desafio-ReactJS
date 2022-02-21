@@ -56,5 +56,3 @@ Os dados provenientes da API fake podem ser acessados em [`http://localhost:3333
 ## 📄 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
