@@ -5,7 +5,6 @@ export function SideBar({selectedGenreId, handleClickButton, genres}: any) {
   
 
   return(
-    <div style={{ display: 'flex', flexDirection: 'row' }}>
       <nav className="sidebar">
         <span>Watch<p>Me</p></span>
 
@@ -22,6 +21,5 @@ export function SideBar({selectedGenreId, handleClickButton, genres}: any) {
         </div>
 
       </nav>     
-    </div>
   )
 }
