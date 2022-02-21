@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-desafio">Desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
@@ -18,14 +18,14 @@
 <br>
 
 <p align="center">
-  <img alt="WatchMe" src=".github/WatchmeImg.png" width="100%">
+  <img alt="WatchMe" src=".github/WatchMe.png" width="100%">
 </p>
 
-## Tecnologias
+## ✨ Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Principais tecnologias utilizadas:
 
-- [React](https://reactjs.org)
+- [ReactJS](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Sass](https://sass-lang.com/)
 - [JSON Server](https://github.com/typicode/json-server)
@@ -49,9 +49,9 @@ A aplicação já está totalmente funcional mas grande parte do seu código est
 - Inicie o servidor com `yarn dev`
 - inice a API Fake do JSON Server com `yarn server`
 
-A aplicação pode ser acessada em [`localhost:8080`](http://localhost:8080).
+Agora você pode acessar [`localhost:8080`](http://localhost:8080) do seu navegador.
 
-Os dados da API fake do JSON Server podem ser acessados em [`localhost:3333`](http://localhost:3333) com os parâmetros '/genres' e '/movies'.
+Os dados provenientes da API fake podem ser acessados em [`http://localhost:3333/genres`](http://localhost:3333/genres) e [`http://localhost:3333/movies`](http://localhost:3333/movies).
 
 ## 📄 Licença
 
